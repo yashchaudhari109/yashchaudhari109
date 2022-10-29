@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashchaudhari109
+- 👋 Hi, I’m Yash
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Flutter Projects
