@@ -1,6 +1,6 @@
-- <h3>👋 Hi, I’m Yash
-<h3>- 👀 I’m interested in App Development
-- 🌱 currently learning DSA <h3 ><a href="https://www.w3schools.com">link to my coding profile</a></h6>
+- 👋 Hi, I’m Yash
+- 👀 I’m interested in App Development
+- 🌱 currently learning DSA [link to my coding profile](https://auth.geeksforgeeks.org/user/yashchaudhari109/practice)
 - 💞️ I’m looking to collaborate on Flutter Projects
 - 📫 Reach me via an Email: yashchaudhari109@gmail.com
 
